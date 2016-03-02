@@ -1,0 +1,25 @@
+{
+  "name": "react-to-rabbit-clusters-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.4.1",
+    "bluebird": "^3.3.3",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionutCiucle/react-to-rabbit-clusters-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionutCiucle/react-to-rabbit-clusters-v2/issues"
+  },
+  "homepage": "https://github.com/ionutCiucle/react-to-rabbit-clusters-v2#readme"
+}
