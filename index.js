@@ -47,7 +47,6 @@ if (cluster.isMaster) {
           for (let i = 0; i < deadWorkersCount; i++) {
             cluster.fork();
           }
-
         } else {
           console.log('No messages in queue, no need for forking people!');
         }
